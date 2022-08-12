@@ -59,11 +59,11 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
         este es un juego CHILENO basado en el código open-source de Wordle -{' '}
         <a
-          href=""
+          href="https://github.com/xannbtw/weondle"
           className="underline font-bold"
         >
           mira el código chileno acá
-        </a>{' '}
+        </a>{''}
         -{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
@@ -71,6 +71,16 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         >
           y el código original acá
         </a>{' '}
+      </p>
+
+      <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
+        Made by {' '}
+        <a
+          href="https://github.com/xannbtw/"
+          className="underline font-bold"
+        >
+          XannBTW
+        </a>{''}
       </p>
     </BaseModal>
   )

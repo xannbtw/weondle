@@ -117,6 +117,16 @@ export const StatsModal = ({
           <MigrationIntro handleMigrateStatsButton={handleMigrateStatsButton} />
         </div>
       )}
+      <div>
+        <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
+          Made by {' '}
+          <a
+            href="https://github.com/xannbtw/"
+            className="underline font-bold">
+            XannBTW
+            </a>{''}
+        </p>
+        </div>
     </BaseModal>
   )
 }

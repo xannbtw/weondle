@@ -1,9 +1,4 @@
-import {
-  ChartBarIcon,
-  CogIcon,
-  InformationCircleIcon,
-} from '@heroicons/react/outline'
-
+import { ChartBarIcon, CogIcon, InformationCircleIcon, } from '@heroicons/react/outline'
 import { GAME_TITLE } from '../../constants/strings'
 
 type Props = {
