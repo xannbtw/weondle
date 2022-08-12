@@ -16,7 +16,7 @@
 ```bash
 $> cd weondle
 $> npm install
-$> npm run deploy
+$> npm run start
 ```
   
 -----------------------------------------------------------
