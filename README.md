@@ -14,7 +14,7 @@
   To deploy:
 
 ```bash
-$> cd boludle
+$> cd weondle
 $> npm install
 $> npm run deploy
 ```
