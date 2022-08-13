@@ -1,5 +1,5 @@
 export const GAME_TITLE = "weondle 🗿"
-
+export const GAME_URL = 'https://www.weondle.cl'
 export const WIN_MESSAGES = ['¡Excelente!', '¡Increible!', '¡Bien Hecho!','¡Sec@!','¡Bakan!','¡La Raja!','¡Impresionante!']
 export const GAME_COPIED_MESSAGE = 'Copiado al portapapeles'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'No hay suficientes letras'
