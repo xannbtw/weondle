@@ -24,12 +24,7 @@ export const SettingsModal = ({
 }: Props) => {
   return (
     <BaseModal title="Ajustes" isOpen={isOpen} handleClose={handleClose}>
-      <div className="mt-2 flex flex-col divide-y">
-        <SettingsToggle
-          settingName="Modo Difícil"
-          flag={isHardMode}
-          handleFlag={handleHardMode}
-        />
+      <div className="mt-2 flex flex-col">
         <SettingsToggle
           settingName="Modo Oscuro"
           flag={isDarkMode}
