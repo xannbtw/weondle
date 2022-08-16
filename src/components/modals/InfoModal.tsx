@@ -62,7 +62,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/xannbtw/weondle"
           className="underline font-bold"
         >
-          mira el código chileno acá
+          mira el código acá
         </a>{''}
         -{' '}
         <a
