@@ -57,7 +57,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         La letra A no está en la palabra.
       </p>
       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        este es un juego CHILENO basado en el código open-source de Wordle -{' '}
+        Weondle es un juego CHILENO basado en el código open-source de Wordle -{' '}
         <a
           href="https://github.com/xannbtw/weondle"
           className="underline font-bold"
