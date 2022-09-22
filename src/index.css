@@ -67,7 +67,6 @@ svg.cursor-pointer:hover {
 }
 
 .navbar {
-  background: #0b296148;
   margin-bottom: 4%;
   border-color: transparent;
 }
@@ -195,3 +194,4 @@ svg.cursor-pointer:hover {
     transform: translate(0, 0);
   }
 }
+
