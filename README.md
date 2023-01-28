@@ -4,8 +4,8 @@
   <a href="https://discord.gg/hvEDPxgTDz">Discord</a> |
   <a href="https://www.instagram.com/67tomvvs">Instagram</a> |
   <a href="https://github.com/xannbtw">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/915014426770419763/1007507105911160862/unknown.png" style="width: 80%">
-    <img src="https://cdn.discordapp.com/attachments/915014426770419763/1007507052790300702/unknown.png" style="width: 80%">
+  <img src="https://cdn.discordapp.com/attachments/915014426770419763/1068982001979375778/image.png" style="width: 80%">
+    <img src="https://cdn.discordapp.com/attachments/915014426770419763/1068982184129597530/image.png" style="width: 80%">
   
   <p>Fork from https://github.com/cwackerfuss/react-wordle</p>
   
